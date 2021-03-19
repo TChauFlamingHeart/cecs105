@@ -1,5 +1,4 @@
 # cecs105
-hello world, it is Thong Chau
 <!DOCTYPE html>
 <html lang="en">
 <head>
